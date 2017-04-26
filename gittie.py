@@ -15,3 +15,6 @@ def add(a, b):
 
 def joke():
     print("lalala")
+
+def shout():
+    print("AAAAAAAA")
