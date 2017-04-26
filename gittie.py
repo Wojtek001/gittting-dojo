@@ -3,6 +3,10 @@ def introduce():
     y = "gitttt"
     print(x + y)
 
+    print("Hello,I'm Gittie!")
+    print("Hello Gittie, you are so fuc***g stupid!")
+
+
 def add(a, b):
     a = 5
     b = 3
