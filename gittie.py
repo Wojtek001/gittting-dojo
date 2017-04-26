@@ -17,4 +17,6 @@ def joke():
     print("lalala")
 
 def shout():
+
     print("AAAAAAAA")
+    print("I really have to go home and take some sleep!")
